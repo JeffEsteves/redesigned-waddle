@@ -1,2 +1,2 @@
-# redesigned-waddle
+# days.
 Website project (days.)
